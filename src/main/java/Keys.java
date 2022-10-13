@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 public class Keys {
 
-    public  int key;
+    public  String key;
     public  String q;
     public  String a1;
     public  String a2;
@@ -21,7 +21,7 @@ public class Keys {
 
     public Keys(){}
 
-    public Keys(int key, String q, String a1,String a2,String a3,String a4, String trueA){
+    public Keys(String key, String q, String a1,String a2,String a3,String a4, String trueA){
         this.key = key;
         this.q = q;
         this.a1 = a1;

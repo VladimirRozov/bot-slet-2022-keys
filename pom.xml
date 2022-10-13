@@ -17,8 +17,8 @@
         <!-- Java-библиотека для работы с Bot API -->
         <dependency>
             <groupId>org.telegram</groupId>
-            <artifactId>telegrambots</artifactId>
-            <version>4.1</version>
+            <artifactId>telegrambots-chat-session-bot</artifactId>
+            <version>6.1.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
